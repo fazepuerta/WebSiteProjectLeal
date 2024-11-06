@@ -6,13 +6,13 @@
     <table width="100%">
       <tr>
         <td colspan= "1">A</td>
-        <td colspan= "4">Ibai</td>
+        <td colspan= "4"><h1>Ibai</h1></td>
         <td colspan="1">B</td>
       </tr>
       <tr>
         <td colspan= "2"> <img src="OI.jfif"</td>
         <td colspan= "2">D</td>
-        <td colspan= "2">E</td>
+        <td colspan= "2"><img src="OIOIOI.avif"</td>
       </tr>
       <tr>
         <td colspan= "3">F</td>
