@@ -5,10 +5,10 @@
   <body>
     <table width="100%">
       <tr>
-        <td colspan= "1">A</td>
+        <td colspan="1"><img src= "Vaaaacaaaa.jfif"></td>
         <td colspan= "4"><h1>Ibai</h1></td>
-        <td colspan="1">B</td>
       </tr>
+        <td colspan= "1"><img src= "Vaaaacaaaa.jfif"></td
       <tr>
         <td colspan= "2"> <img src="OI.jfif"</td>
         <td colspan= "2">D</td>
