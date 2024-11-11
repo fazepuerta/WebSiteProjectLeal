@@ -7,8 +7,8 @@
       <tr>
         <td colspan="1"><img src= "Vaaaacaaaa.jfif"></td>
         <td colspan= "4"><h1>Ibai</h1></td>
-      </tr>
         <td colspan= "1"><img src= "Vaaaacaaaa.jfif"></td
+      </tr>
       <tr>
         <td colspan= "2"> <img src="OI.jfif"</td>
         <td colspan= "2">D</td>
